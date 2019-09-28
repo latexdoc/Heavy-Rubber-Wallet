@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pattern>
+    <!--Pattern created with Valentina v0.6.1.0 (https://valentinaproject.bitbucket.io/).-->
+    <version>0.7.12</version>
+    <unit>mm</unit>
+    <description/>
+    <notes/>
+    <measurements/>
+    <increments/>
+    <previewCalculations/>
+    <draw name="front-back">
+        <calculation>
+            <point id="1" mx="1.32292" my="2.64583" name="A" showLabel="true" type="single" x="7.9375" y="10.5833"/>
+            <point angle="270" basePoint="1" id="2" length="220" lineColor="black" mx="1.32292" my="2.64583" name="A1" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="360" basePoint="2" id="3" length="170&#10;" lineColor="black" mx="1.32292" my="2.64583" name="A2" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="90" basePoint="3" id="4" length="220" lineColor="black" mx="1.32292" my="2.64583" name="A3" showLabel="true" type="endLine" typeLine="hair"/>
+            <line firstPoint="1" id="5" lineColor="black" secondPoint="4" typeLine="hair"/>
+            <point angle="-90" basePoint="1" id="6" length="10" lineColor="black" mx="1.32292" my="2.64583" name="A4" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="0" basePoint="6" id="7" length="10&#10;" lineColor="black" mx="1.32292" my="2.64583" name="A5" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="270" basePoint="7" id="8" length="40" lineColor="black" mx="1.32292" my="2.64583" name="A6" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="270" basePoint="8" id="9" length="40&#10;" lineColor="black" mx="1.32292" my="2.64583" name="A7" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="0" basePoint="7" id="10" length="150" lineColor="black" mx="1.32292" my="2.64583" name="A8" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="0" basePoint="8" id="11" length="150" lineColor="black" mx="1.32292" my="2.64583" name="A9" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="0&#10;" basePoint="9" id="12" length="150" lineColor="black" mx="1.32292" my="2.64583" name="A10" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="90" basePoint="2" id="13" length="10&#10;" lineColor="black" mx="1.32292" my="2.64583" name="A11" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="0" basePoint="13" id="14" length="10" lineColor="black" mx="1.32292" my="2.64583" name="A12" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="90" basePoint="14" id="15" length="40" lineColor="black" mx="1.32292" my="2.64583" name="A13" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="90" basePoint="15" id="16" length="40" lineColor="black" mx="-0.489325" my="0.0407285" name="A14" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="0" basePoint="16" id="17" length="150" lineColor="black" mx="1.32292" my="2.64583" name="A15" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="0" basePoint="15" id="18" length="150" lineColor="black" mx="1.32292" my="2.64583" name="A16" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="0" basePoint="14" id="19" length="150" lineColor="black" mx="1.32292" my="2.64583" name="A17" showLabel="true" type="endLine" typeLine="hair"/>
+            <arc aScale="0" angle1="0" angle2="360" center="7" color="black" id="20" penStyle="hair" radius="2.5" type="simple"/>
+            <arc aScale="0" angle1="0" angle2="360" center="8" color="black" id="21" penStyle="hair" radius="2.5" type="simple"/>
+            <arc aScale="0" angle1="0" angle2="360" center="9" color="black" id="22" penStyle="hair" radius="2.5" type="simple"/>
+            <arc aScale="0" angle1="0" angle2="360" center="16" color="black" id="23" penStyle="hair" radius="2.5" type="simple"/>
+            <arc aScale="0" angle1="0" angle2="360" center="15" color="black" id="24" penStyle="hair" radius="2.5" type="simple"/>
+            <arc aScale="0" angle1="0" angle2="360" center="14" color="black" id="25" penStyle="hair" radius="2.5" type="simple"/>
+            <arc aScale="0" angle1="0" angle2="360" center="10" color="black" id="26" penStyle="hair" radius="2.5" type="simple"/>
+            <arc aScale="0" angle1="0" angle2="360" center="11" color="black" id="27" penStyle="hair" radius="2.5" type="simple"/>
+            <arc aScale="0" angle1="0" angle2="360" center="12" color="black" id="28" penStyle="hair" radius="2.5" type="simple"/>
+            <arc aScale="0" angle1="0" angle2="360" center="17" color="black" id="29" penStyle="hair" radius="2.5" type="simple"/>
+            <arc aScale="0" angle1="0" angle2="360" center="18" color="black" id="30" penStyle="hair" radius="2.5" type="simple"/>
+            <arc aScale="0" angle1="0" angle2="360" center="19" color="black" id="31" penStyle="hair" radius="2.5" type="simple"/>
+            <point angle="270" basePoint="1" id="32" length="30" lineColor="black" mx="1.32292" my="2.64583" name="A18" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="0" basePoint="32" id="33" length="30" lineColor="black" mx="1.32292" my="2.64583" name="A19" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="0" basePoint="33" id="34" length="110" lineColor="black" mx="1.32292" my="2.64583" name="A20" showLabel="true" type="endLine" typeLine="hair"/>
+            <arc aScale="0" angle1="0" angle2="360" center="33" color="black" id="35" penStyle="hair" radius="5" type="simple"/>
+            <arc aScale="0" angle1="0" angle2="360" center="34" color="black" id="36" penStyle="hair" radius="5" type="simple"/>
+            <point angle="0" basePoint="2" id="180" length="37.5&#10;" lineColor="black" mx="1.32292" my="2.64583" name="A21" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="90" basePoint="180" id="181" length="20" lineColor="black" mx="1.32292" my="2.64583" name="A22" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="0" basePoint="181" id="182" length="15" lineColor="black" mx="1.32292" my="2.64583" name="A23" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="180" basePoint="3" id="183" length="37.5" lineColor="black" mx="1.32292" my="2.64583" name="A24" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="90" basePoint="183" id="184" length="20" lineColor="black" mx="1.32292" my="2.64583" name="A25" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="180" basePoint="184" id="185" length="15" lineColor="black" mx="1.32292" my="2.64583" name="A26" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="90" basePoint="181" id="186" length="60" lineColor="black" mx="1.32292" my="2.64583" name="A27" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="90" basePoint="182" id="187" length="60" lineColor="black" mx="1.32292" my="2.64583" name="A28" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="90" basePoint="185" id="188" length="60" lineColor="black" mx="1.32292" my="2.64583" name="A29" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="90" basePoint="184" id="189" length="60" lineColor="black" mx="1.32292" my="2.64583" name="A30" showLabel="true" type="endLine" typeLine="hair"/>
+            <arc aScale="0" angle1="0" angle2="360" center="186" color="black" id="190" penStyle="hair" radius="2.5" type="simple"/>
+            <arc aScale="0" angle1="0" angle2="360" center="187" color="black" id="191" penStyle="hair" radius="2.5" type="simple"/>
+            <arc aScale="0" angle1="0" angle2="360" center="188" color="black" id="192" penStyle="hair" radius="2.5" type="simple"/>
+            <arc aScale="0" angle1="0" angle2="360" center="189" color="black" id="193" penStyle="hair" radius="2.5" type="simple"/>
+            <arc aScale="0" angle1="0" angle2="360" center="181" color="black" id="194" penStyle="hair" radius="2.5" type="simple"/>
+            <arc aScale="0" angle1="0" angle2="360" center="182" color="black" id="195" penStyle="hair" radius="2.5" type="simple"/>
+            <arc aScale="0" angle1="0" angle2="360" center="185" color="black" id="196" penStyle="hair" radius="2.5" type="simple"/>
+            <arc aScale="0" angle1="0" angle2="360" center="184" color="black" id="197" penStyle="hair" radius="2.5" type="simple"/>
+        </calculation>
+        <modeling>
+            <point id="90" idObject="1" inUse="false" mx="1.32292" my="2.64583" showLabel="true" type="modeling"/>
+            <point id="91" idObject="4" inUse="false" mx="1.32292" my="2.64583" showLabel="true" type="modeling"/>
+            <point id="92" idObject="3" inUse="false" mx="1.32292" my="2.64583" showLabel="true" type="modeling"/>
+            <point id="93" idObject="2" inUse="false" mx="1.32292" my="2.64583" showLabel="true" type="modeling"/>
+            <arc id="128" idObject="20" inUse="false" type="modeling"/>
+            <path cut="false" firstToCountour="false" id="129" inUse="false" lastToCountour="false" name="Unbenannter Pfad" type="2" typeLine="hair" visible="1">
+                <nodes>
+                    <node idObject="128" reverse="0" type="NodeArc"/>
+                </nodes>
+            </path>
+            <arc id="130" idObject="21" inUse="false" type="modeling"/>
+            <path cut="false" firstToCountour="false" id="131" inUse="false" lastToCountour="false" name="Unbenannter Pfad" type="2" typeLine="hair" visible="1">
+                <nodes>
+                    <node idObject="130" reverse="0" type="NodeArc"/>
+                </nodes>
+            </path>
+            <arc id="132" idObject="22" inUse="false" type="modeling"/>
+            <path cut="false" firstToCountour="false" id="133" inUse="false" lastToCountour="false" name="Unbenannter Pfad" type="2" typeLine="hair" visible="1">
+                <nodes>
+                    <node idObject="132" reverse="0" type="NodeArc"/>
+                </nodes>
+            </path>
+            <arc id="134" idObject="35" inUse="false" type="modeling"/>
+            <path cut="false" firstToCountour="false" id="135" inUse="false" lastToCountour="false" name="Unbenannter Pfad" type="2" typeLine="hair" visible="1">
+                <nodes>
+                    <node idObject="134" reverse="0" type="NodeArc"/>
+                </nodes>
+            </path>
+            <arc id="136" idObject="36" inUse="false" type="modeling"/>
+            <path cut="false" firstToCountour="false" id="137" inUse="false" lastToCountour="false" name="Unbenannter Pfad" type="2" typeLine="hair" visible="1">
+                <nodes>
+                    <node idObject="136" reverse="0" type="NodeArc"/>
+                </nodes>
+            </path>
+            <arc id="138" idObject="26" inUse="false" type="modeling"/>
+            <path cut="false" firstToCountour="false" id="139" inUse="false" lastToCountour="false" name="Unbenannter Pfad" type="2" typeLine="hair" visible="1">
+                <nodes>
+                    <node idObject="138" reverse="0" type="NodeArc"/>
+                </nodes>
+            </path>
+            <arc id="140" idObject="27" inUse="false" type="modeling"/>
+            <path cut="false" firstToCountour="false" id="141" inUse="false" lastToCountour="false" name="Unbenannter Pfad" type="2" typeLine="hair" visible="1">
+                <nodes>
+                    <node idObject="140" reverse="0" type="NodeArc"/>
+                </nodes>
+            </path>
+            <arc id="142" idObject="28" inUse="false" type="modeling"/>
+            <path cut="false" firstToCountour="false" id="143" inUse="false" lastToCountour="false" name="Unbenannter Pfad" type="2" typeLine="hair" visible="1">
+                <nodes>
+                    <node idObject="142" reverse="0" type="NodeArc"/>
+                </nodes>
+            </path>
+            <arc id="144" idObject="23" inUse="false" type="modeling"/>
+            <path cut="false" firstToCountour="false" id="145" inUse="false" lastToCountour="false" name="Unbenannter Pfad" type="2" typeLine="hair" visible="1">
+                <nodes>
+                    <node idObject="144" reverse="0" type="NodeArc"/>
+                </nodes>
+            </path>
+            <arc id="146" idObject="24" inUse="false" type="modeling"/>
+            <path cut="false" firstToCountour="false" id="147" inUse="false" lastToCountour="false" name="Unbenannter Pfad" type="2" typeLine="hair" visible="1">
+                <nodes>
+                    <node idObject="146" reverse="0" type="NodeArc"/>
+                </nodes>
+            </path>
+            <arc id="148" idObject="25" inUse="false" type="modeling"/>
+            <path cut="false" firstToCountour="false" id="149" inUse="false" lastToCountour="false" name="Unbenannter Pfad" type="2" typeLine="hair" visible="1">
+                <nodes>
+                    <node idObject="148" reverse="0" type="NodeArc"/>
+                </nodes>
+            </path>
+            <arc id="150" idObject="29" inUse="false" type="modeling"/>
+            <path cut="false" firstToCountour="false" id="151" inUse="false" lastToCountour="false" name="Unbenannter Pfad" type="2" typeLine="hair" visible="1">
+                <nodes>
+                    <node idObject="150" reverse="0" type="NodeArc"/>
+                </nodes>
+            </path>
+            <arc id="152" idObject="30" inUse="false" type="modeling"/>
+            <path cut="false" firstToCountour="false" id="153" inUse="false" lastToCountour="false" name="Unbenannter Pfad" type="2" typeLine="hair" visible="1">
+                <nodes>
+                    <node idObject="152" reverse="0" type="NodeArc"/>
+                </nodes>
+            </path>
+            <arc id="154" idObject="31" inUse="false" type="modeling"/>
+            <path cut="false" firstToCountour="false" id="155" inUse="false" lastToCountour="false" name="Unbenannter Pfad" type="2" typeLine="hair" visible="1">
+                <nodes>
+                    <node idObject="154" reverse="0" type="NodeArc"/>
+                </nodes>
+            </path>
+            <arc id="198" idObject="190" inUse="true" type="modeling"/>
+            <path cut="false" firstToCountour="false" id="199" inUse="true" lastToCountour="false" name="Unbenannter Pfad" type="2" typeLine="hair" visible="1">
+                <nodes>
+                    <node idObject="198" reverse="0" type="NodeArc"/>
+                </nodes>
+            </path>
+            <arc id="200" idObject="191" inUse="true" type="modeling"/>
+            <path cut="false" firstToCountour="false" id="201" inUse="true" lastToCountour="false" name="Unbenannter Pfad" type="2" typeLine="hair" visible="1">
+                <nodes>
+                    <node idObject="200" reverse="0" type="NodeArc"/>
+                </nodes>
+            </path>
+            <arc id="202" idObject="194" inUse="true" type="modeling"/>
+            <path cut="false" firstToCountour="false" id="203" inUse="true" lastToCountour="false" name="Unbenannter Pfad" type="2" typeLine="hair" visible="1">
+                <nodes>
+                    <node idObject="202" reverse="0" type="NodeArc"/>
+                </nodes>
+            </path>
+            <arc id="204" idObject="195" inUse="true" type="modeling"/>
+            <path cut="false" firstToCountour="false" id="205" inUse="true" lastToCountour="false" name="Unbenannter Pfad" type="2" typeLine="hair" visible="1">
+                <nodes>
+                    <node idObject="204" reverse="0" type="NodeArc"/>
+                </nodes>
+            </path>
+            <arc id="206" idObject="192" inUse="true" type="modeling"/>
+            <path cut="false" firstToCountour="false" id="207" inUse="true" lastToCountour="false" name="Unbenannter Pfad" type="2" typeLine="hair" visible="1">
+                <nodes>
+                    <node idObject="206" reverse="0" type="NodeArc"/>
+                </nodes>
+            </path>
+            <arc id="208" idObject="193" inUse="true" type="modeling"/>
+            <path cut="false" firstToCountour="false" id="209" inUse="true" lastToCountour="false" name="Unbenannter Pfad" type="2" typeLine="hair" visible="1">
+                <nodes>
+                    <node idObject="208" reverse="0" type="NodeArc"/>
+                </nodes>
+            </path>
+            <arc id="210" idObject="196" inUse="true" type="modeling"/>
+            <path cut="false" firstToCountour="false" id="211" inUse="true" lastToCountour="false" name="Unbenannter Pfad" type="2" typeLine="hair" visible="1">
+                <nodes>
+                    <node idObject="210" reverse="0" type="NodeArc"/>
+                </nodes>
+            </path>
+            <arc id="212" idObject="197" inUse="true" type="modeling"/>
+            <path cut="false" firstToCountour="false" id="213" inUse="true" lastToCountour="false" name="Unbenannter Pfad" type="2" typeLine="hair" visible="1">
+                <nodes>
+                    <node idObject="212" reverse="0" type="NodeArc"/>
+                </nodes>
+            </path>
+        </modeling>
+        <details>
+            <detail forbidFlipping="false" forceFlipping="false" hideMainPath="false" id="94" inLayout="true" mx="-0.931586" my="-1.62983" name="front-back" seamAllowance="false" united="false" version="2" width="10">
+                <data annotation="" foldPosition="" fontSize="0" height="40" letter="" mx="183.037" my="205.522" onFold="true" orientation="" quantity="2" rotation="0" rotationWay="" tilt="" visible="true" width="100">
+                    <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Pattern: Heavy Rubber Wallet"/>
+                    <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Piece: side"/>
+                    <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Thickness: 4mm rubber with textile sheet"/>
+                    <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Author: Latexdoc"/>
+                    <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Date: 2019/09/27"/>
+                    <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Reduction: no reduction"/>
+                    <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Link to Source: https://github.com/latexdoc/Heavy-Rubber-Wallet"/>
+                    <line alignment="0" bold="false" italic="false" sfIncrement="0" text="small holes: 5mm diameter"/>
+                    <line alignment="0" bold="false" italic="false" sfIncrement="0" text="big holes: 10mm diameter"/>
+                </data>
+                <patternInfo fontSize="0" height="1" mx="0" my="0" rotation="0" visible="false" width="1"/>
+                <grainline arrows="0" length="1" mx="0" my="0" rotation="90" visible="false"/>
+                <nodes>
+                    <node idObject="90" type="NodePoint"/>
+                    <node idObject="91" type="NodePoint"/>
+                    <node idObject="92" type="NodePoint"/>
+                    <node idObject="93" type="NodePoint"/>
+                </nodes>
+                <iPaths>
+                    <record path="129"/>
+                    <record path="131"/>
+                    <record path="133"/>
+                    <record path="135"/>
+                    <record path="137"/>
+                    <record path="139"/>
+                    <record path="141"/>
+                    <record path="143"/>
+                    <record path="145"/>
+                    <record path="147"/>
+                    <record path="149"/>
+                    <record path="151"/>
+                    <record path="153"/>
+                    <record path="155"/>
+                    <record path="199"/>
+                    <record path="201"/>
+                    <record path="203"/>
+                    <record path="205"/>
+                    <record path="207"/>
+                    <record path="209"/>
+                    <record path="211"/>
+                    <record path="213"/>
+                </iPaths>
+            </detail>
+        </details>
+        <groups/>
+    </draw>
+    <draw name="side">
+        <calculation>
+            <point id="37" mx="1.32292" my="2.64583" name="Ä" showLabel="true" type="single" x="204.155" y="10.5833"/>
+            <point angle="270" basePoint="37" id="38" length="100" lineColor="black" mx="1.32292" my="2.64583" name="Ä1" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="360" basePoint="38" id="39" length="60" lineColor="black" mx="1.32292" my="2.64583" name="Ä2" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="90" basePoint="39" id="40" length="100" lineColor="black" mx="1.32292" my="2.64583" name="Ä3" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="180" basePoint="40" id="41" length="60" lineColor="black" mx="1.32292" my="2.64583" name="Ä4" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="270" basePoint="41" id="42" length="10" lineColor="black" mx="1.32292" my="2.64583" name="Ä5" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="0" basePoint="42" id="43" length="10" lineColor="black" mx="1.32292" my="2.64583" name="Ä6" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="270" basePoint="43" id="44" length="40" lineColor="black" mx="1.32292" my="2.64583" name="Ä7" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="270" basePoint="44" id="45" length="40" lineColor="black" mx="1.32292" my="2.64583" name="Ä8" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="0" basePoint="43" id="46" length="40" lineColor="black" mx="1.32292" my="2.64583" name="Ä9" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="0" basePoint="44" id="47" length="40" lineColor="black" mx="1.32292" my="2.64583" name="Ä10" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="0" basePoint="45" id="48" length="40" lineColor="black" mx="1.32292" my="2.64583" name="Ä11" showLabel="true" type="endLine" typeLine="hair"/>
+            <arc aScale="0" angle1="0" angle2="360" center="43" color="black" id="49" penStyle="hair" radius="2.5" type="simple"/>
+            <arc aScale="0" angle1="0" angle2="360" center="44" color="black" id="50" penStyle="hair" radius="2.5" type="simple"/>
+            <arc aScale="0" angle1="0" angle2="360" center="45" color="black" id="51" penStyle="hair" radius="2.5" type="simple"/>
+            <arc aScale="0" angle1="0" angle2="360" center="46" color="black" id="52" penStyle="hair" radius="2.5" type="simple"/>
+            <arc aScale="0" angle1="0" angle2="360" center="47" color="black" id="53" penStyle="hair" radius="2.5" type="simple"/>
+            <arc aScale="0" angle1="0" angle2="360" center="48" color="black" id="54" penStyle="hair" radius="2.5" type="simple"/>
+        </calculation>
+        <modeling>
+            <point id="95" idObject="41" inUse="false" mx="1.32292" my="2.64583" showLabel="true" type="modeling"/>
+            <point id="96" idObject="40" inUse="false" mx="1.32292" my="2.64583" showLabel="true" type="modeling"/>
+            <point id="97" idObject="39" inUse="false" mx="1.32292" my="2.64583" showLabel="true" type="modeling"/>
+            <point id="98" idObject="38" inUse="false" mx="1.32292" my="2.64583" showLabel="true" type="modeling"/>
+            <arc id="156" idObject="49" inUse="false" type="modeling"/>
+            <path cut="false" firstToCountour="false" id="157" inUse="false" lastToCountour="false" name="Unbenannter Pfad" type="2" typeLine="hair" visible="1">
+                <nodes>
+                    <node idObject="156" reverse="0" type="NodeArc"/>
+                </nodes>
+            </path>
+            <arc id="158" idObject="52" inUse="false" type="modeling"/>
+            <path cut="false" firstToCountour="false" id="159" inUse="false" lastToCountour="false" name="Unbenannter Pfad" type="2" typeLine="hair" visible="1">
+                <nodes>
+                    <node idObject="158" reverse="0" type="NodeArc"/>
+                </nodes>
+            </path>
+            <arc id="160" idObject="50" inUse="false" type="modeling"/>
+            <path cut="false" firstToCountour="false" id="161" inUse="false" lastToCountour="false" name="Unbenannter Pfad" type="2" typeLine="hair" visible="1">
+                <nodes>
+                    <node idObject="160" reverse="0" type="NodeArc"/>
+                </nodes>
+            </path>
+            <arc id="162" idObject="51" inUse="false" type="modeling"/>
+            <path cut="false" firstToCountour="false" id="163" inUse="false" lastToCountour="false" name="Unbenannter Pfad" type="2" typeLine="hair" visible="1">
+                <nodes>
+                    <node idObject="162" reverse="0" type="NodeArc"/>
+                </nodes>
+            </path>
+            <arc id="164" idObject="53" inUse="false" type="modeling"/>
+            <path cut="false" firstToCountour="false" id="165" inUse="false" lastToCountour="false" name="Unbenannter Pfad" type="2" typeLine="hair" visible="1">
+                <nodes>
+                    <node idObject="164" reverse="0" type="NodeArc"/>
+                </nodes>
+            </path>
+            <arc id="166" idObject="54" inUse="false" type="modeling"/>
+            <path cut="false" firstToCountour="false" id="167" inUse="false" lastToCountour="false" name="Unbenannter Pfad" type="2" typeLine="hair" visible="1">
+                <nodes>
+                    <node idObject="166" reverse="0" type="NodeArc"/>
+                </nodes>
+            </path>
+        </modeling>
+        <details>
+            <detail forbidFlipping="false" forceFlipping="false" hideMainPath="false" id="99" inLayout="true" mx="0" my="0" name="Side" seamAllowance="false" united="false" version="2" width="10">
+                <data annotation="" foldPosition="" fontSize="9" height="30" letter="" mx="743.826" my="169.186" onFold="true" orientation="" quantity="2" rotation="90" rotationWay="" tilt="" visible="true" width="75">
+                    <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Pattern: Heavy Rubber Wallet"/>
+                    <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Piece: Belt Buckle"/>
+                    <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Thickness: 2mm rubber"/>
+                    <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Author: Latexdoc"/>
+                    <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Date: 2019/09/27"/>
+                    <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Reduction: no reduction"/>
+                    <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Link to Source: https://github.com/latexdoc/Heavy-Rubber-Wallet"/>
+                    <line alignment="0" bold="false" italic="false" sfIncrement="0" text="small holes: 5mm diameter"/>
+                </data>
+                <patternInfo fontSize="0" height="1" mx="0" my="0" rotation="0" visible="false" width="1"/>
+                <grainline arrows="0" length="1" mx="0" my="0" rotation="90" visible="false"/>
+                <nodes>
+                    <node idObject="95" type="NodePoint"/>
+                    <node idObject="96" type="NodePoint"/>
+                    <node idObject="97" type="NodePoint"/>
+                    <node idObject="98" type="NodePoint"/>
+                </nodes>
+                <iPaths>
+                    <record path="157"/>
+                    <record path="159"/>
+                    <record path="161"/>
+                    <record path="163"/>
+                    <record path="165"/>
+                    <record path="167"/>
+                </iPaths>
+            </detail>
+        </details>
+        <groups/>
+    </draw>
+    <draw name="Belt Bucket">
+        <calculation>
+            <point id="55" mx="1.32292" my="2.64583" name="B" showLabel="true" type="single" x="7.9375" y="258.497"/>
+            <point angle="270" basePoint="55" id="56" length="80" lineColor="black" mx="1.32292" my="2.64583" name="B1" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="0" basePoint="56" id="57" length="30" lineColor="black" mx="1.32292" my="2.64583" name="B2" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="90" basePoint="57" id="58" length="80" lineColor="black" mx="1.32292" my="2.64583" name="B3" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="180" basePoint="58" id="59" length="30" lineColor="black" mx="1.32292" my="2.64583" name="B4" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="270" basePoint="59" id="60" length="10" lineColor="black" mx="1.32292" my="2.64583" name="B5" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="360" basePoint="60" id="61" length="7.5" lineColor="black" mx="1.32292" my="2.64583" name="B6" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="270" basePoint="61" id="62" length="60" lineColor="black" mx="1.32292" my="2.64583" name="B7" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="270" basePoint="58" id="63" length="10" lineColor="black" mx="1.32292" my="2.64583" name="B8" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="180" basePoint="63" id="64" length="7.5" lineColor="black" mx="1.32292" my="2.64583" name="B9" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="270" basePoint="64" id="65" length="60" lineColor="black" mx="1.32292" my="2.64583" name="B10" showLabel="true" type="endLine" typeLine="hair"/>
+            <arc aScale="0" angle1="0" angle2="360" center="61" color="black" id="66" penStyle="hair" radius="2.5" type="simple"/>
+            <arc aScale="0" angle1="0" angle2="360" center="64" color="black" id="67" penStyle="hair" radius="2.5" type="simple"/>
+            <arc aScale="0" angle1="0" angle2="360" center="62" color="black" id="68" penStyle="hair" radius="2.5" type="simple"/>
+            <arc aScale="0" angle1="0" angle2="360" center="65" color="black" id="69" penStyle="hair" radius="2.5" type="simple"/>
+        </calculation>
+        <modeling>
+            <point id="115" idObject="59" inUse="false" mx="1.32292" my="2.64583" showLabel="true" type="modeling"/>
+            <point id="116" idObject="58" inUse="false" mx="1.32292" my="2.64583" showLabel="true" type="modeling"/>
+            <point id="117" idObject="57" inUse="false" mx="1.32292" my="2.64583" showLabel="true" type="modeling"/>
+            <point id="118" idObject="56" inUse="false" mx="1.32292" my="2.64583" showLabel="true" type="modeling"/>
+            <arc id="120" idObject="66" inUse="false" type="modeling"/>
+            <path cut="false" firstToCountour="false" id="121" inUse="false" lastToCountour="false" name="Unbenannter Pfad" type="2" typeLine="hair" visible="1">
+                <nodes>
+                    <node idObject="120" reverse="0" type="NodeArc"/>
+                </nodes>
+            </path>
+            <arc id="122" idObject="67" inUse="false" type="modeling"/>
+            <path cut="false" firstToCountour="false" id="123" inUse="false" lastToCountour="false" name="Unbenannter Pfad" type="2" typeLine="hair" visible="1">
+                <nodes>
+                    <node idObject="122" reverse="0" type="NodeArc"/>
+                </nodes>
+            </path>
+            <arc id="124" idObject="69" inUse="false" type="modeling"/>
+            <path cut="false" firstToCountour="false" id="125" inUse="false" lastToCountour="false" name="Unbenannter Pfad" type="2" typeLine="hair" visible="1">
+                <nodes>
+                    <node idObject="124" reverse="0" type="NodeArc"/>
+                </nodes>
+            </path>
+            <arc id="126" idObject="68" inUse="false" type="modeling"/>
+            <path cut="false" firstToCountour="false" id="127" inUse="false" lastToCountour="false" name="Unbenannter Pfad" type="2" typeLine="hair" visible="1">
+                <nodes>
+                    <node idObject="126" reverse="0" type="NodeArc"/>
+                </nodes>
+            </path>
+        </modeling>
+        <details>
+            <detail forbidFlipping="false" forceFlipping="false" hideMainPath="false" id="119" inLayout="true" mx="0" my="0" name="Belt-Bucket" seamAllowance="false" united="false" version="2" width="10">
+                <data annotation="" foldPosition="" fontSize="0" height="20" letter="" mx="-4.44771" my="1093.72" onFold="true" orientation="" quantity="1" rotation="90" rotationWay="" tilt="" visible="true" width="50">
+                    <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Pattern: Heavy Rubber Wallet"/>
+                    <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Piece: side"/>
+                    <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Thickness: 4mm rubber with textile sheet"/>
+                    <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Author: Latexdoc"/>
+                    <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Date: 2019/09/27"/>
+                    <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Reduction: no reduction"/>
+                    <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Link to Source: https://github.com/latexdoc/Heavy-Rubber-Wallet"/>
+                    <line alignment="0" bold="false" italic="false" sfIncrement="0" text="small holes: 5mm diameter"/>
+                </data>
+                <patternInfo fontSize="0" height="1" mx="0" my="0" rotation="0" visible="false" width="1"/>
+                <grainline arrows="0" length="1" mx="0" my="0" rotation="90" visible="false"/>
+                <nodes>
+                    <node idObject="115" type="NodePoint"/>
+                    <node idObject="116" type="NodePoint"/>
+                    <node idObject="117" type="NodePoint"/>
+                    <node idObject="118" type="NodePoint"/>
+                </nodes>
+                <iPaths>
+                    <record path="121"/>
+                    <record path="123"/>
+                    <record path="125"/>
+                    <record path="127"/>
+                </iPaths>
+            </detail>
+        </details>
+        <groups/>
+    </draw>
+    <draw name="Top">
+        <calculation>
+            <point id="70" mx="1.32292" my="2.64583" name="C" showLabel="true" type="single" x="291.413" y="10.5833"/>
+            <point angle="270" basePoint="70" id="71" length="120" lineColor="black" mx="1.32292" my="2.64583" name="C1" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="0" basePoint="71" id="72" length="170" lineColor="black" mx="1.32292" my="2.64583" name="C2" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="90" basePoint="72" id="73" length="120" lineColor="black" mx="1.32292" my="2.64583" name="C3" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="180" basePoint="73" id="74" length="170" lineColor="black" mx="1.32292" my="2.64583" name="C4" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="270" basePoint="74" id="75" length="30" lineColor="black" mx="1.32292" my="2.64583" name="C5" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="0" basePoint="75" id="76" length="30" lineColor="black" mx="1.32292" my="2.64583" name="C6" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="0" basePoint="76" id="77" length="110" lineColor="black" mx="1.32292" my="2.64583" name="C7" showLabel="true" type="endLine" typeLine="hair"/>
+            <arc aScale="0" angle1="0" angle2="360" center="76" color="black" id="78" penStyle="hair" radius="5" type="simple"/>
+            <arc aScale="0" angle1="0" angle2="360" center="77" color="black" id="79" penStyle="hair" radius="5" type="simple"/>
+            <point angle="90" basePoint="71" id="80" length="10" lineColor="black" mx="1.32292" my="2.64583" name="C8" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="0" basePoint="80" id="81" length="10" lineColor="black" mx="1.32292" my="2.64583" name="C9" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="0" basePoint="81" id="82" length="60" lineColor="black" mx="1.32292" my="2.64583" name="C10" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="90" basePoint="72" id="83" length="10" lineColor="black" mx="1.32292" my="2.64583" name="C11" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="180" basePoint="83" id="84" length="10" lineColor="black" mx="1.32292" my="2.64583" name="C12" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="180" basePoint="84" id="85" length="60" lineColor="black" mx="1.32292" my="2.64583" name="C13" showLabel="true" type="endLine" typeLine="hair"/>
+            <arc aScale="0" angle1="0" angle2="360" center="81" color="black" id="86" penStyle="hair" radius="2.5" type="simple"/>
+            <arc aScale="0" angle1="0" angle2="360" center="82" color="black" id="87" penStyle="hair" radius="2.5" type="simple"/>
+            <arc aScale="0" angle1="0" angle2="360" center="85" color="black" id="88" penStyle="hair" radius="2.5" type="simple"/>
+            <arc aScale="0" angle1="0" angle2="360" center="84" color="black" id="89" penStyle="hair" radius="2.5" type="simple"/>
+        </calculation>
+        <modeling>
+            <point id="105" idObject="74" inUse="false" mx="1.32292" my="2.64583" showLabel="true" type="modeling"/>
+            <point id="106" idObject="73" inUse="false" mx="1.32292" my="2.64583" showLabel="true" type="modeling"/>
+            <point id="107" idObject="72" inUse="false" mx="1.32292" my="2.64583" showLabel="true" type="modeling"/>
+            <point id="108" idObject="71" inUse="false" mx="1.32292" my="2.64583" showLabel="true" type="modeling"/>
+            <arc id="168" idObject="78" inUse="true" type="modeling"/>
+            <path cut="false" firstToCountour="false" id="169" inUse="true" lastToCountour="false" name="Unbenannter Pfad" type="2" typeLine="hair" visible="1">
+                <nodes>
+                    <node idObject="168" reverse="0" type="NodeArc"/>
+                </nodes>
+            </path>
+            <arc id="170" idObject="79" inUse="true" type="modeling"/>
+            <path cut="false" firstToCountour="false" id="171" inUse="true" lastToCountour="false" name="Unbenannter Pfad" type="2" typeLine="hair" visible="1">
+                <nodes>
+                    <node idObject="170" reverse="0" type="NodeArc"/>
+                </nodes>
+            </path>
+            <arc id="172" idObject="86" inUse="true" type="modeling"/>
+            <path cut="false" firstToCountour="false" id="173" inUse="true" lastToCountour="false" name="Unbenannter Pfad" type="2" typeLine="hair" visible="1">
+                <nodes>
+                    <node idObject="172" reverse="0" type="NodeArc"/>
+                </nodes>
+            </path>
+            <arc id="174" idObject="87" inUse="true" type="modeling"/>
+            <path cut="false" firstToCountour="false" id="175" inUse="true" lastToCountour="false" name="Unbenannter Pfad" type="2" typeLine="hair" visible="1">
+                <nodes>
+                    <node idObject="174" reverse="0" type="NodeArc"/>
+                </nodes>
+            </path>
+            <arc id="176" idObject="88" inUse="true" type="modeling"/>
+            <path cut="false" firstToCountour="false" id="177" inUse="true" lastToCountour="false" name="Unbenannter Pfad" type="2" typeLine="hair" visible="1">
+                <nodes>
+                    <node idObject="176" reverse="0" type="NodeArc"/>
+                </nodes>
+            </path>
+            <arc id="178" idObject="89" inUse="true" type="modeling"/>
+            <path cut="false" firstToCountour="false" id="179" inUse="true" lastToCountour="false" name="Unbenannter Pfad" type="2" typeLine="hair" visible="1">
+                <nodes>
+                    <node idObject="178" reverse="0" type="NodeArc"/>
+                </nodes>
+            </path>
+        </modeling>
+        <details>
+            <detail forbidFlipping="false" forceFlipping="false" hideMainPath="false" id="109" inLayout="true" mx="0" my="0" name="Top" seamAllowance="false" united="false" version="2" width="10">
+                <data annotation="" foldPosition="" fontSize="0" height="40" letter="" mx="1254.6" my="207.888" onFold="false" orientation="" quantity="1" rotation="0" rotationWay="" tilt="" visible="true" width="100">
+                    <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Pattern: Heavy Rubber Wallet"/>
+                    <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Piece: side"/>
+                    <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Thickness: 2mm rubber"/>
+                    <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Author: Latexdoc"/>
+                    <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Date: 2019/09/27"/>
+                    <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Reduction: no reduction"/>
+                    <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Link to Source: https://github.com/latexdoc/Heavy-Rubber-Wallet"/>
+                    <line alignment="0" bold="false" italic="false" sfIncrement="0" text="small holes: 5mm diameter"/>
+                    <line alignment="0" bold="false" italic="false" sfIncrement="0" text="big holes: 10mm diameter"/>
+                </data>
+                <patternInfo fontSize="0" height="1" mx="0" my="0" rotation="0" visible="false" width="1"/>
+                <grainline arrows="0" length="1" mx="0" my="0" rotation="90" visible="false"/>
+                <nodes>
+                    <node idObject="105" type="NodePoint"/>
+                    <node idObject="106" type="NodePoint"/>
+                    <node idObject="107" type="NodePoint"/>
+                    <node idObject="108" type="NodePoint"/>
+                </nodes>
+                <iPaths>
+                    <record path="169"/>
+                    <record path="171"/>
+                    <record path="173"/>
+                    <record path="175"/>
+                    <record path="177"/>
+                    <record path="179"/>
+                </iPaths>
+            </detail>
+        </details>
+        <groups/>
+    </draw>
+</pattern>
