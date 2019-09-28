@@ -207,7 +207,7 @@
             <detail forbidFlipping="false" forceFlipping="false" hideMainPath="false" id="94" inLayout="true" mx="-0.931586" my="-1.62983" name="front-back" seamAllowance="false" united="false" version="2" width="10">
                 <data annotation="" foldPosition="" fontSize="0" height="40" letter="" mx="183.037" my="205.522" onFold="true" orientation="" quantity="2" rotation="0" rotationWay="" tilt="" visible="true" width="100">
                     <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Pattern: Heavy Rubber Wallet"/>
-                    <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Piece: side"/>
+                    <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Piece: top and back"/>
                     <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Thickness: 4mm rubber with textile sheet"/>
                     <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Author: Latexdoc"/>
                     <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Date: 2019/09/27"/>
@@ -319,7 +319,7 @@
             <detail forbidFlipping="false" forceFlipping="false" hideMainPath="false" id="99" inLayout="true" mx="0" my="0" name="Side" seamAllowance="false" united="false" version="2" width="10">
                 <data annotation="" foldPosition="" fontSize="9" height="30" letter="" mx="743.826" my="169.186" onFold="true" orientation="" quantity="2" rotation="90" rotationWay="" tilt="" visible="true" width="75">
                     <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Pattern: Heavy Rubber Wallet"/>
-                    <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Piece: Belt Buckle"/>
+                    <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Piece: side"/>
                     <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Thickness: 2mm rubber"/>
                     <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Author: Latexdoc"/>
                     <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Date: 2019/09/27"/>
@@ -399,7 +399,7 @@
             <detail forbidFlipping="false" forceFlipping="false" hideMainPath="false" id="119" inLayout="true" mx="0" my="0" name="Belt-Bucket" seamAllowance="false" united="false" version="2" width="10">
                 <data annotation="" foldPosition="" fontSize="0" height="20" letter="" mx="-4.44771" my="1093.72" onFold="true" orientation="" quantity="1" rotation="90" rotationWay="" tilt="" visible="true" width="50">
                     <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Pattern: Heavy Rubber Wallet"/>
-                    <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Piece: side"/>
+                    <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Piece: belt buckle"/>
                     <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Thickness: 4mm rubber with textile sheet"/>
                     <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Author: Latexdoc"/>
                     <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Date: 2019/09/27"/>
@@ -494,7 +494,7 @@
             <detail forbidFlipping="false" forceFlipping="false" hideMainPath="false" id="109" inLayout="true" mx="0" my="0" name="Top" seamAllowance="false" united="false" version="2" width="10">
                 <data annotation="" foldPosition="" fontSize="0" height="40" letter="" mx="1254.6" my="207.888" onFold="false" orientation="" quantity="1" rotation="0" rotationWay="" tilt="" visible="true" width="100">
                     <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Pattern: Heavy Rubber Wallet"/>
-                    <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Piece: side"/>
+                    <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Piece: top"/>
                     <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Thickness: 2mm rubber"/>
                     <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Author: Latexdoc"/>
                     <line alignment="0" bold="false" italic="false" sfIncrement="0" text="Date: 2019/09/27"/>
